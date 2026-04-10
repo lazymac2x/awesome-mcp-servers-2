@@ -500,6 +500,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 ### Server Managers
 
 - [mcp-get](https://github.com/michaellatman/mcp-get) - CLI tool for installing and managing MCP servers. Simplifies server installation and configuration for Claude Desktop.
+- [lazymac/mcp](https://github.com/lazymac2x/lazymac-mcp) — Unified MCP server exposing 42+ developer tools (qr, ip-geo, ai-cost, llm-router, k-privacy, korean-nlp, ...) backed by Cloudflare Workers. `npx -y @lazymac/mcp`
+- [lazymac/k-mcp](https://github.com/lazymac2x/lazymac-k-mcp) — Korean wedge MCP — PIPA compliance scan, KRW + BOK rates, 사업자등록번호 lookup, address geocoding, NLP. English JSON. `npx -y @lazymac/k-mcp`
   - Supports NPM-based servers
   - Automatic configuration generation
   - Easy server management
